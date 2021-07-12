@@ -1,0 +1,2 @@
+C:\Users\ASUS\OneDrive\Desktop\KLTN_Nhom53_DeTaiXayDungGameTrucXanh\MaNguonVaCachCaiDat\NenTangOffline\SourceCode\TrucXanh\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\KLTN_Nhom53_DeTaiXayDungGameTrucXanh\MaNguonVaCachCaiDat\NenTangOffline\SourceCode\TrucXanh\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
